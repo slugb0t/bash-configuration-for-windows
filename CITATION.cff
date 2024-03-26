@@ -1,0 +1,12 @@
+abstract: Bash Confirufation details here
+authors:
+  - family-names: Portillo
+    given-names: Dorian
+cff-version: 1.2.0
+keywords:
+  - bash
+  - bashrc
+  - git
+  - topic
+message: If you use this software, please cite it as below.
+type: Software
