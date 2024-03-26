@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Portillo
+    given-names: Dorian
+message: If you use this software, please cite it as below.
+type: Software
+abstract: Bash Confirufation details here
+keywords:
+  - bash
+  - bashrc
+  - git
+  - topic
