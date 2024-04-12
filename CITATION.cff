@@ -1,0 +1,22 @@
+abstract: Bash Confirufation details here
+authors:
+  - affiliation: FAIR Data Innovations Hub
+    given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+cff-version: 1.2.0
+date-released: '2024-04-12T21:02:51.116Z'
+identifiers:
+  - type: doi
+    description: 'DOI for this software''s record on Zenodo '
+keywords:
+  - bash
+  - bashrc
+  - git
+  - topic
+license: MIT
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/slugb0t/bash-configuration-for-windows
+title: bash-configuration-for-windows
+type: Software
+url: https://github.com/slugb0t/bash-configuration-for-windows
