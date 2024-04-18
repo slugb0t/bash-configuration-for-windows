@@ -1,0 +1,26 @@
+'@context': https://doi.org/10.5063/schema/codemeta-2.0
+'@type': SoftwareSourceCode
+author:
+  - orcid: ''
+    affiliation:
+      '@type': Organization
+      name: FAIR Data Innovations Hub
+    given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+codeRepository: https://github.com/slugb0t/bash-configuration-for-windows
+dateCreated: '2023-07-21T00:42:09Z'
+dateModified: '2024-03-26T21:09:35Z'
+description: Bash Confirufation details here
+identifier: 668935235
+issueTracker: >-
+  https://api.github.com/repos/slugb0t/bash-configuration-for-windows/issues{/number}
+keywords:
+  - bash
+  - bashrc
+  - git
+  - topic
+license: https://spdx.org/licenses/MIT
+name: slugb0t/bash-configuration-for-windows
+programmingLanguage:
+  - Shell
