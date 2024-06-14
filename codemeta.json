@@ -9,17 +9,29 @@
       },
       "email": "wheresdorian@gmail.com",
       "familyName": "Portillo",
-      "id": "_:author_1",
+      "id": "dfasdfad",
       "givenName": "Dorian",
       "type": "Person"
+    },
+    {
+      "endDate": "2024-07-03",
+      "roleName": "dfgadsf",
+      "startDate": "2024-06-22",
+      "schema:author": "dfasdfad",
+      "type": "Role"
     }
   ],
+  "codemeta:isSourceCodeOf": {
+    "id": "erqwer"
+  },
   "codeRepository": "https://github.com/slugb0t/bash-configuration-for-windows",
   "dateCreated": "2023-07-20",
   "dateModified": "2024-03-27",
   "datePublished": "2024-03-27",
   "description": "Bash Confirufation details here",
+  "developmentStatus": "inactive",
   "downloadUrl": "https://github.com/slugb0t/bash-configuration-for-windows/releases/tag/1.5",
+  "isPartOf": "dfasd",
   "issueTracker": "https://github.com/slugb0t/bash-configuration-for-windows/issues",
   "keywords": [
     "bash",
@@ -32,8 +44,15 @@
   "programmingLanguage": [
     "Shell"
   ],
+  "referencePublication": "dfw",
   "relatedLink": [],
   "runtimePlatform": [],
+  "schema:releaseNotes": "werqwer",
+  "schema:review": {
+    "schema:reviewAspect": "erqw",
+    "schema:reviewBody": "dfasdfas",
+    "type": "schema:Review"
+  },
   "softwareRequirements": [],
   "version": "1.5",
   "type": "SoftwareSourceCode"
