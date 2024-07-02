@@ -7,6 +7,9 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
+identifiers:
+  - type: doi
+    value: Unique Identifier
 abstract: Bash Confirufation details here
 keywords:
   - bash
