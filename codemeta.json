@@ -1,6 +1,7 @@
 {
-  "name": "dsfsdf",
+  "name": "bash-configuration-for-windows",
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "applicationCategory": "Accounting",
   "author": [
     {
       "affiliation": {
@@ -9,17 +10,39 @@
       },
       "email": "wheresdorian@gmail.com",
       "familyName": "Portillo",
-      "id": "_:author_1",
+      "id": "https://dorianportillo.dev",
       "givenName": "Dorian",
       "type": "Person"
+    },
+    {
+      "endDate": "2024-07-02",
+      "roleName": "Developer Role",
+      "startDate": "2024-07-01",
+      "schema:author": "https://dorianportillo.dev",
+      "type": "Role"
     }
   ],
+  "codemeta:continuousIntegration": {
+    "id": "continous integration"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "is source of"
+  },
   "codeRepository": "https://github.com/slugb0t/bash-configuration-for-windows",
+  "contIntegration": "continous integration",
   "dateCreated": "2023-07-20",
   "dateModified": "2024-03-27",
   "datePublished": "2024-03-27",
   "description": "Bash Confirufation details here",
+  "developmentStatus": "inactive",
   "downloadUrl": "https://github.com/slugb0t/bash-configuration-for-windows/releases/tag/1.5",
+  "funder": {
+    "name": "funding organization",
+    "type": "Organization"
+  },
+  "funding": "funding code",
+  "identifier": "Unique Identifier",
+  "isPartOf": "is part of",
   "issueTracker": "https://github.com/slugb0t/bash-configuration-for-windows/issues",
   "keywords": [
     "bash",
@@ -28,13 +51,23 @@
     "topic"
   ],
   "license": "https://spdx.org/licenses/MIT",
-  "operatingSystem": [],
+  "operatingSystem": [
+    "Windows 11",
+    "Windows 10"
+  ],
   "programmingLanguage": [
     "Shell"
   ],
   "relatedLink": [],
-  "runtimePlatform": [],
-  "softwareRequirements": [],
+  "runtimePlatform": [
+    ".Net",
+    "JVM",
+    "CLR"
+  ],
+  "schema:releaseNotes": "current version release notes",
+  "softwareRequirements": [
+    "software requirements"
+  ],
   "version": "1.5",
   "type": "SoftwareSourceCode"
 }
