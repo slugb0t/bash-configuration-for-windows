@@ -1,0 +1,40 @@
+{
+  "name": "dsfsdf",
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/slugb0t/bash-configuration-for-windows",
+  "dateCreated": "2023-07-20",
+  "dateModified": "2024-03-27",
+  "datePublished": "2024-03-27",
+  "description": "Bash Confirufation details here",
+  "downloadUrl": "https://github.com/slugb0t/bash-configuration-for-windows/releases/tag/1.5",
+  "issueTracker": "https://github.com/slugb0t/bash-configuration-for-windows/issues",
+  "keywords": [
+    "bash",
+    "bashrc",
+    "git",
+    "topic"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [
+    "Shell"
+  ],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "version": "1.5",
+  "type": "SoftwareSourceCode"
+}
