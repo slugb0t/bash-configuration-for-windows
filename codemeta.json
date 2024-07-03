@@ -1,7 +1,7 @@
 {
   "name": "bash-configuration-for-windows",
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "applicationCategory": "Accounting",
+  "applicationCategory": "Authentication server",
   "author": [
     {
       "affiliation": {
@@ -10,38 +10,67 @@
       },
       "email": "wheresdorian@gmail.com",
       "familyName": "Portillo",
-      "id": "https://dorianportillo.dev",
+      "id": "_:author_1",
       "givenName": "Dorian",
       "type": "Person"
     },
     {
-      "endDate": "2024-07-02",
-      "roleName": "Developer Role",
-      "startDate": "2024-07-01",
-      "schema:author": "https://dorianportillo.dev",
+      "affiliation": {
+        "name": "fasdfasdf",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "dfasdf",
+      "id": "https://google.com",
+      "givenName": "TETSING",
+      "type": "Person"
+    },
+    {
+      "endDate": "2024-07-25",
+      "roleName": "checking FOR ROLE",
+      "startDate": "2024-07-17",
+      "schema:author": "_:author_1",
       "type": "Role"
     }
   ],
+  "contributor": [
+    {
+      "affiliation": {
+        "name": "testing affiliation",
+        "type": "Organization"
+      },
+      "email": "hello@gmail.com",
+      "familyName": "TETS",
+      "id": "https://redit.com",
+      "givenName": "Same thing here",
+      "type": "Person"
+    },
+    {
+      "roleName": "SUPER ROLE",
+      "startDate": "2024-07-24",
+      "schema:contributor": "https://redit.com"
+    }
+  ],
   "codemeta:continuousIntegration": {
-    "id": "continous integration"
+    "id": "cont integration"
   },
   "codemeta:isSourceCodeOf": {
-    "id": "is source of"
+    "id": "source code of"
   },
   "codeRepository": "https://github.com/slugb0t/bash-configuration-for-windows",
-  "contIntegration": "continous integration",
-  "dateCreated": "2023-07-20",
+  "contIntegration": "cont integration",
+  "dateCreated": "2023-01-01",
   "dateModified": "2024-03-27",
-  "datePublished": "2024-03-27",
+  "datePublished": "2024-03-22",
   "description": "Bash Confirufation details here",
-  "developmentStatus": "inactive",
+  "developmentStatus": "active",
   "downloadUrl": "https://github.com/slugb0t/bash-configuration-for-windows/releases/tag/1.5",
   "funder": {
     "name": "funding organization",
     "type": "Organization"
   },
   "funding": "funding code",
-  "identifier": "Unique Identifier",
+  "identifier": "unique identifier",
   "isPartOf": "is part of",
   "issueTracker": "https://github.com/slugb0t/bash-configuration-for-windows/issues",
   "keywords": [
@@ -58,15 +87,16 @@
   "programmingLanguage": [
     "Shell"
   ],
-  "relatedLink": [],
-  "runtimePlatform": [
-    ".Net",
-    "JVM",
-    "CLR"
+  "relatedLink": [
+    "related links"
   ],
-  "schema:releaseNotes": "current version release notes",
+  "runtimePlatform": [
+    "CLR",
+    ".Net"
+  ],
+  "schema:releaseNotes": "release notes current version",
   "softwareRequirements": [
-    "software requirements"
+    "other software requirements"
   ],
   "version": "1.5",
   "type": "SoftwareSourceCode"
