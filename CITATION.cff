@@ -14,7 +14,7 @@ type: software
 identifiers:
   - type: doi
     value: unique identifier
-abstract: Bash Confirufation details here
+abstract: Bash Confirufation details hereasdfdfasdf
 keywords:
   - bash
   - bashrc
