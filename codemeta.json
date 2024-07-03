@@ -62,8 +62,8 @@
   "dateCreated": "2023-01-01",
   "dateModified": "2024-03-27",
   "datePublished": "2024-03-22",
-  "description": "Bash Confirufation details here",
-  "developmentStatus": "active",
+  "description": "Bash Confirufation details hereasdfdfasdf",
+  "developmentStatus": "abandoned",
   "downloadUrl": "https://github.com/slugb0t/bash-configuration-for-windows/releases/tag/1.5",
   "funder": {
     "name": "funding organization",
@@ -94,7 +94,7 @@
     "CLR",
     ".Net"
   ],
-  "schema:releaseNotes": "release notes current version",
+  "schema:releaseNotes": "release notes current version changeeddd",
   "softwareRequirements": [
     "other software requirements"
   ],
