@@ -1,9 +1,15 @@
 #!/usr/bin/env cwl-runner
-cwlVersion: v1.0
+
 class: CommandLineTool
+cwlVersion: v1.1
+
+requirements:
+
 inputs:
-  - id: inp
-    type: string
-    inputBinding: {}
-baseCommand: 42
-stdout: out.txt
+  file1: File
+
+
+baseCommand: [wc, -l]
+
+stdin: $(inputs.file1.path)
+stdout: output
